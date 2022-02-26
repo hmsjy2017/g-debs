@@ -1,0 +1,8 @@
+Package: g
+Version: 1.2.1
+Architecture: armhf
+Maintainer: Junyi Shi <hmsjy2019@gmail.com>
+Section: utils
+Priority: optional
+Homepage: https://github.com/voidint/g
+Description: Golang Version Manager
